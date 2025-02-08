@@ -131,11 +131,3 @@ CEMT SET PROG(UUMENYYY) NEWCOPY
 📌 **Expertise**: COBOL | JCL | CICS | Mainframe Development  
 
 ---
-
-### ✅ **Changes & Fixes in Markdown Formatting**
-- **Fixed Bullet Point Misalignment**.
-- **Wrapped Code Blocks (` ```plaintext ` for messages and ` ```cics ` for CICS commands)**.
-- **Reformatted Screenshots Section** for better clarity.
-- **Reorganized File Structure Section** inside a proper `code block` instead of mixing with text.
-
-This **README** now has a **structured, professional look** while making it **enterprise-grade and easy to follow**. 🚀
