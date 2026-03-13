@@ -45,7 +45,7 @@ CICS-Student-Information-System/
 
 ---
 
-## 🖥️ **User Interface (Screenshots)**  
+##  **User Interface (Screenshots)**  
 
 ### **📌 Main Menu Screen**  
 ![Main Menu](/screenshots/SCREENSHOT1.png "Main Menu")
