@@ -1,6 +1,6 @@
 # 📌 CICS Transaction-Based Student Information System (SIS)
 
-## 🚀 Overview  
+##  Overview  
 The **CICS Transaction-Based Student Information System (SIS)** is a **COBOL & JCL-driven mainframe application** that provides a structured, menu-driven student management system.  
 
 This system integrates **Batch MapSets (BMS) with CICS transactions**, allowing users to **add, search, modify, and delete student records** efficiently in a mainframe computing environment.  
@@ -9,7 +9,7 @@ This project demonstrates **advanced COBOL, JCL, and CICS transaction processing
 
 ---
 
-## 🏛️ Enterprise-Grade Features  
+##  Enterprise-Grade Features  
 ✅ **Interactive CICS-Based Interface** – Users can navigate through structured menu options.  
 ✅ **Batch & Online Processing** – Seamless integration of batch jobs and CICS transactions.  
 ✅ **Error Handling & Validation** – Displays error messages for invalid inputs & unavailable functions.  
@@ -124,7 +124,7 @@ CEMT SET PROG(UUMENYYY) NEWCOPY
 
 ---
 
-## 👨‍💻 **About the Developer**  
+##  **About the Developer**  
 
 📌 **Talent Nyota**  
 📌 **GitHub**: [devtalent2030](https://github.com/devtalent2030)  
